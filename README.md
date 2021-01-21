@@ -27,5 +27,5 @@ Imagine um retângulo, a figura geométrica, crie uma classe que represente este
 [Resposta](https://github.com/tiago-clementino/desafioDevOps/blob/master/ops/docs/q4.md)
 
 [![npm](https://img.shields.io/npm/l/express.svg)](https://github.com/tiago-clementino/findcep/blob/master/LICENSE)
-[![npm](https://img.shields.io/static/v1?label=AWS&message=Ops&color=green)](pasta)
-[![npm](https://img.shields.io/static/v1?label=Python&message=Dev&color=green)](pasta)<br />
+[![npm](https://img.shields.io/static/v1?label=AWS&message=Ops&color=green)](https://github.com/tiago-clementino/desafioDevOps/tree/master/ops)
+[![npm](https://img.shields.io/static/v1?label=Python&message=Dev&color=green)](https://github.com/tiago-clementino/desafioDevOps/tree/master/dev)<br />
