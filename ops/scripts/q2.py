@@ -4,8 +4,8 @@ import datetime
 session = Session(aws_access_key_id='[your_key_id]',
                   aws_secret_access_key='[your_secret_key]')
 
-def delete_from(credentials_name,region,your_bucket_name,date):
-    resource = session.resource(credentials_name,region)
+def delete_from(resource_name,region,your_bucket_name,date):
+    resource = session.resource(resource_name,region)
     my_bucket = resource.Bucket(your_bucket_name)
     results = []
     for obj in my_bucket.objects.all():
