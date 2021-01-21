@@ -6,7 +6,7 @@ Pequeno desafio DevOps:
 
 Imagine um retângulo, a figura geométrica, crie uma classe que represente este objeto. As propriedades, atributos, métodos ficam a seu critério, demonstre seu conhecimento. Utilizar apenas a biblioteca padrão.
 
-[Resposta](link)
+[Resposta](https://github.com/tiago-clementino/desafioDevOps/blob/master/dev/q_dev.py)
 
 ## Ops - Cloud Computing - AWS
 
@@ -18,7 +18,7 @@ Imagine um retângulo, a figura geométrica, crie uma classe que represente este
 
 [Resposta](https://github.com/tiago-clementino/desafioDevOps/blob/master/ops/scripts/q2.py)
 
-3. Observe o arquivo [programa_desafio1.py](link). Monte um tutorial com o procedimento para conseguir executar este programa em uma instância na AWS, Google Cloud, ou semelhante, desde a criação da máquina, até a instalação dos requisitos. Cada passo deve ser bem sucinto, como se fosse apenas um lembrete para alguém que já tem conhecimento e é familiarizado com o assunto.
+3. Observe o arquivo [programa_desafio1.py](https://github.com/tiago-clementino/desafioDevOps/blob/master/programa_desafio1.py). Monte um tutorial com o procedimento para conseguir executar este programa em uma instância na AWS, Google Cloud, ou semelhante, desde a criação da máquina, até a instalação dos requisitos. Cada passo deve ser bem sucinto, como se fosse apenas um lembrete para alguém que já tem conhecimento e é familiarizado com o assunto.
 
 [Resposta](https://github.com/tiago-clementino/desafioDevOps/blob/master/ops/docs/q3.md)
 
